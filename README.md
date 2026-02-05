@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo, saya [Nama Kamu]! 👋
 
-<!--
-**FEX156/FEX156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Lulusan Sekolah Jalanan, Belajar Lewat Kode"
+Saya adalah calon Software Engineer yang fokus pada [Sebutkan Tech Stack, misal: Backend/React]. 
+Meskipun sempat dropout, semangat saya untuk membangun solusi lewat teknologi tidak pernah padam.
 
-Here are some ideas to get you started:
+- 🔭 Saya sedang mengerjakan [Proyek Kamu]
+- 🌱 Saya sedang mendalami [Bahasa Pemrograman]
+- ⚡ Fun fact: Lebih suka baca dokumentasi daripada novel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

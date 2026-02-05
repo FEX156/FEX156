@@ -1,8 +1,7 @@
 # Hola, welcome to FEX! 👋
 
 ### "IRL Solo Leveling"
-Saya adalah calon Software Engineer yang fokus pada [Sebutkan Tech Stack, misal: Backend/React]. 
-Meskipun sempat dropout, semangat saya untuk membangun solusi lewat teknologi tidak pernah padam.
+### Inspired by Solo Leveling, we can improve our skills day by day with discipline and endless hard work.
 
 - 🔭 Saya sedang mengerjakan [Proyek Kamu]
 - 🌱 Saya sedang mendalami [Bahasa Pemrograman]

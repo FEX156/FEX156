@@ -9,5 +9,5 @@ Meskipun sempat dropout, semangat saya untuk membangun solusi lewat teknologi ti
 - ⚡ Fun fact: Lebih suka baca dokumentasi daripada novel.
 
 ### Tech Stack
-![Rust](https://img.shields.io/badge/-Java-007396?style=flat&logo=rust)
+![Rust](https://img.shields.io/badge/-Rust-007396?style=flat&logo=rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

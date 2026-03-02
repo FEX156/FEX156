@@ -3,8 +3,8 @@
 ### "IRL Solo Leveling"
 ### Inspired by Solo Leveling, we can improve our skills everyday.
 
-- 🔭 Saya sedang mengerjakan [Proyek Kamu]
-- 🌱 Saya sedang mendalami [Bahasa Pemrograman]
+- 🔭 Saya sedang mengerjakan 
+- 🌱 Saya sedang mendalami 
 - ⚡ Fun fact: Lebih suka baca dokumentasi daripada novel.
 
 ### Tech Stack

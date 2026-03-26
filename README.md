@@ -9,6 +9,6 @@
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&labelColor=777BB4&logoColor=FFF)
 
 ### Framework & Library:
-![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Nest](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
